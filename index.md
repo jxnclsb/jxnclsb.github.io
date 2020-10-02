@@ -8,7 +8,7 @@
   <li> 年龄：还有近两个月成年</li>
   <li> 高中：江西师大附中</li>
   <li> 点击了解我的高中
-  <li> <a href=“http://www.jxsdfz.com">我的高中</a> </li>
+  <li> <a href="http://www.jxsdfz.com/ ">我的高中</a> </li>
   <li> 大学：北京大学</li>
   <li>点击了解这所位于世一大隔壁的大学
   <li> <a href="https://www.pku.edu.cn/ ">我的大学</a> </li>
