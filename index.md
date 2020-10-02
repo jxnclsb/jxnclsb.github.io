@@ -7,9 +7,9 @@
   <li> 性别：女</li>
   <li> 年龄：还有近两个月成年</li>
   <li> 高中：江西师大附中</li>
-  <li> 点击了解我的高中<a href=“http://www.jxsdfz.com“</a></li>
+  <li> 点击了解我的高中<a href=“http://www.jxsdfz.com"></a></li>
   <li> 大学：北京大学</li>
-  <li>点击了解这所位于世一大隔壁的大学<a href="https://www.pku.edu.cn/ </a></li>
+  <li>点击了解这所位于世一大隔壁的大学<a href="https://www.pku.edu.cn/ "></a></li>
   <li> 专业：预防医学</li>
   <li> 性格：内向安静害羞，热爱默默自习，热爱美食</li>
   <li> 愿望：锻炼好身体，学有所成后挽救更多人的生命</li>
