@@ -16,6 +16,6 @@
   <li> 专业：预防医学</li>
   <li> 性格：内向安静害羞，热爱默默自习，热爱美食</li>
   <li> 愿望：锻炼好身体，学有所成后挽救更多人的生命</li>
-  <li>下面是我最喜欢的一张照片</li>
+  <li>下面是我最喜欢的一张照片h</li>
   <img src="https://image.so.com/view?q=未名湖照片&listsrc=sobox&listsign=f66357f76644caa72a55cfaa8872eeb2&src=360pic_normal&correct=未名湖照片&ancestor=list&cmsid=b6d123256546c92f3640a8ec1d3da6b6&cmras=6&cn=0&gn=0&kn=0&crn=0&bxn=0&fsn=60&cuben=0&pornn=0&adstar=0&clw=229#id=35850d8cc8e19cf6a7ae10db079b660a&currsn=0&ps=59&pc=59"/>
   
