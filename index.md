@@ -1,6 +1,4 @@
-           <head>
-           <meta charset="utf-8"/>
-                   <title>我的第一个网页</title>
+<h1>我的第一个网页</h1>
 <p>hello 大家好呀</p>
 <p>我叫刘诗彬，这是我的个人网站</p>
 <p>很高兴你来到这里</p>
