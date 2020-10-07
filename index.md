@@ -7,6 +7,8 @@
   <li> 姓名：刘诗彬</li>
   <li> 性别：女</li>
   <li> 年龄：还有近两个月成年</li>
+  <li> 家乡：江西南昌
+  <li> <a href="https://baike.baidu.com/item/南昌/227785?fromtitle=江西南昌&fromid=17503085&fr=aladdin “>南昌的简介</a> </li>
   <li> 高中：江西师大附中</li>
   <li> 点击了解我的高中
   <li> <a href="http://www.jxsdfz.com/ ">我的高中</a> </li>
