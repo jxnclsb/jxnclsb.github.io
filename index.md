@@ -1,8 +1,9 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        < meta charset="utf-8" />
+        < meta charset="utf-8"/>
      <title>欢迎来到刘诗彬的个人网页</title>
+        
 </head>
   
 <body>
