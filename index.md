@@ -12,9 +12,10 @@
   <li> 点击了解我的高中
   <li> <a href="http://www.jxsdfz.com/ ">我的高中</a> </li>
   <li> 大学：北京大学</li>
+  <img src="WechatIMG2.jpeg"/>
   <li>点击了解这所位于世一大隔壁的大学
   <li> <a href="https://www.pku.edu.cn/ ">我的大学</a> </li>
   <li> 专业：预防医学</li>
   <li> 性格：内向安静害羞，热爱默默自习，热爱美食</li>
   <li> 愿望：锻炼好身体，学有所成后挽救更多人的生命</li>
-  <img src="WechatIMG2.jpeg"/>
+  
