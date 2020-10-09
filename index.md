@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
     <head>
      <title>欢迎来到刘诗彬的个人网页</title>
