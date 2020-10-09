@@ -20,6 +20,7 @@
   <li> 性别：女</li>
   <li> 年龄：还有近两个月成年</li>
   <li> 家乡：江西南昌</li>
+	
   <li> 高中：江西师大附中</li>
   <li> 点击了解我的高中
   <li> <a href="http://www.jxsdfz.com/ ">我的高中</a> </li>
