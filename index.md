@@ -1,10 +1,13 @@
 <!DOCTYPE HTML>
 <html>
-    <head>
-        < meta charset="utf-8"/>
-     <title>欢迎来到刘诗彬的个人网页</title>
-        
-</head>
+	<head>
+		<title>刘诗彬的个人网页</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
   
 <body>
 <h1>我的第一个网页</h1>
