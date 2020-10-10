@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="zh-c>
+<html lang="zh-cn">
 	<head>
 	   <meta charset="utf-8" />
            <title>刘诗彬的个人网页</title>	
