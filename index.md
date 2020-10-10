@@ -17,7 +17,7 @@
   <li> 家乡：江西南昌(家乡的标志性建筑 滕王阁）</li>
     <img scr="/>
   <li> 高中：江西师大附中</li>
-   <img scr=""/>
+   <img scr="WechatIMG13.jpeg"/>
   <li> 点击了解我的高中>
   <li> <a href="http://www.jxsdfz.com/ ">我的高中</a> </li>
   <li> 大学：北京大学</li>
